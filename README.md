@@ -1,9 +1,14 @@
 # 💫About Me :
+
 🔭 I’m currently working on SEAHORSE
-\n🌱 I’m attending school at Boston University Academy
-\n🏢 I’m Interning at Harvard
-\n💬 Ask me about anything!
-\n📫 How to reach me: adamq@bu.edu
+
+🌱 I’m attending school at Boston University Academy
+
+🏢 I’m Interning at Harvard
+
+💬 Ask me about anything!
+
+📫 How to reach me: adamq@bu.edu
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adam.quackenbush) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@harvardbs) 
